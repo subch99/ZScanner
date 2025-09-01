@@ -1,6 +1,3 @@
-# ZScanner
-Advanced Scanner to find all vulnerabilities and early exploits which is useful in pentesting
-
 # ZScanner Advanced Penetration Testing Framework
 
 Framework canggih untuk pengujian penetrasi dan identifikasi kerentanan keamanan.
